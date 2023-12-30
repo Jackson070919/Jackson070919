@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jackson070919
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+information gathering tool for python
+Jul 24, 2021
+1 min read
+Mr.Holmes
+Mr.Holmes is a information gathering tool (OSINT). Is main purpose is to gain information about domains,username and phone numbers with the help of public source avaiable on the internet also it use the google dorks attack for specific researchers. It also use proxies for make your requests completley anonymous and a WhoIS Api for getting more information about a domain.
 
-<!---
-Jackson070919/Jackson070919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DISCLAIMER
+This Tool is Not 100% Precise so it can fail somtimes. Also this tool is made for educational and research purposes only..use it wisely
+
+INSTALLATION LINUX/MAC:
